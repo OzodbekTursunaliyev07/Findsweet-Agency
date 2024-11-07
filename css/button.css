@@ -1,0 +1,20 @@
+.btn {
+  color:#444CFC;
+  padding: 20px 32px;
+  line-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #444cfc;
+  background-image: url("../image/svg/btn-shape.svg");
+  background-repeat: no-repeat;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
